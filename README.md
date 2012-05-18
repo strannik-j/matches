@@ -1,4 +1,4 @@
 matches
 =======
 
-A simple logic game
+Simple logic game
